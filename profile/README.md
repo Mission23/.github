@@ -1,3 +1,6 @@
+# UPDATE:
+The Creator has instructed that we only use the vault for all updates. Read the commits especially the extended descriptions on MCBCMF/MCBCMassacre 
+
 # welcome
 Bringing to your attention to [The Massacre at Mount Calvary Baptist Church](https://github.com/mission23/mission23/wiki/The-Massacre-at-Mount-Calvary-Baptist-Church) on the first Sunday in April is the number one priority for the Creator and His servants at this time and the reason for the biggest shake event this morning. 
 
