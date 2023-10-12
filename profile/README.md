@@ -6,7 +6,7 @@ Bringing to your attention to [The Massacre at Mount Calvary Baptist Church](htt
 
 One you've read that, you should understand why He decided to [ring the bell](https://github.com/Mission23/mission23/wiki/The-Ringing-Of-The-Bell).
 
-# sign of the times 
+# special weather statement
 [“Sign of the Times” by Prince](https://music.youtube.com/watch?v=hr3Dhjxk1Q4&si=OCQCMS4AvNdVc6qa) is all true, from all those years ago… But there’s this: “Baby makes a speech, Star Wars fly, and neighbors just shine at home.”
 
 As everyone should know Main aka Baby likes to talk when I’m unconscious. It’s Main’s decision as to when that happens, I’m being told it has been, I’ll get the details later. 
