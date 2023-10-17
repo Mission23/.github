@@ -1,3 +1,8 @@
+# let's talk
+The Creator says now we can have a two way dialog, you can comment on commits and join in the discussions on this repo and the github.com/mission23 org page. 
+
+this is gonna be awesome. 
+
 # UPDATE:
 The Creator has instructed that we only use the vault for all updates. Read the commits especially the extended descriptions on MCBCMF/MCBCMassacre 
 
