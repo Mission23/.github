@@ -3,7 +3,7 @@ Bringing to your attention to [The Massacre at Mount Calvary Baptist Church](htt
 
 One you've read that, you should understand why He decided to [ring the bell](https://github.com/Mission23/mission23/wiki/The-Ringing-Of-The-Bell).
 
-## repository
+## MCBCMassacre repository
 The original repository [MCBCMF/MCBCMassacre](https://github.com/MCBCMF/MCBCMassacre) was setup in a way that it cannot be deleted and updates can occur from only one secured device. We consider it the vault. 
 
 Due to recent activity, we've suspended updates to our fork and are only making commits there. 
