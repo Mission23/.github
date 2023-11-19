@@ -2,7 +2,7 @@
 ## current priorities
 * [CIA Massacre at Mount Calvary Baptist Church](https://github.com/mission23/mission23/wiki/The-CIA-Massacre-of-Mount-Calvary-Baptist-Church) 
 * [Bluegrass Genocide](https://github.com/mission23/mission23/wiki/The-Bluegrass-Genocide)
-* [The Ringing of The Bel]](https://github.com/Mission23/mission23/wiki/The-Ringing-Of-The-Bell).
+* [The Ringing of The Bel](https://github.com/Mission23/mission23/wiki/The-Ringing-Of-The-Bell).
 
 ## we're now on medium.com
 read about pre-mission & mission23 issues and other topics of interest on [medium.com](https://medium.com/@micahthemf)
