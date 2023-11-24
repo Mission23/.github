@@ -1,4 +1,3 @@
-
 ## current priorities
 * [The Massacre at Mount Calvary Baptist Church](https://github.com/mission23/mission23/wiki/The-Massacre-of-Mount-Calvary-Baptist-Church) 
 * [Bluegrass Genocide](https://github.com/mission23/mission23/wiki/The-Bluegrass-Genocide)
