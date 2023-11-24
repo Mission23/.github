@@ -14,3 +14,7 @@ you want to check out the [media repository](https://github.com/mission23/media)
 [MCBCMF/MCBCMassacre](https://github.com/MCBCMF/MCBCMassacre) 
 If you haven't already, please clone the repository and fetch/pull often. The more clones we have the more difficult this becomes to keep hidden. 
 
+## Legacy at Riverdale
+[mission23/legacy](https://github.com/mission23/legacy)
+A repository for Legacy at Riverdale residents and workers. 
+
