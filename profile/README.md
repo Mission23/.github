@@ -3,6 +3,9 @@
 * [Bluegrass Genocide](https://github.com/mission23/mission23/wiki/The-Bluegrass-Genocide)
 * [The Ringing of The Bell](https://github.com/Mission23/mission23/wiki/The-Ringing-Of-The-Bell)
 
+## low-tech hack alert
+2023-11-28: my iphone, the "very key" has had the side button glued. rendering me unable to pay for anything and He knows what else they are thinking. 
+
 ## media information
 * doing or following up on a story?
 * need to verify if you have a quote or stance of the Creator correct? 
